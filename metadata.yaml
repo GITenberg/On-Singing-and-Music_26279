@@ -1,0 +1,27 @@
+_repo: On-Singing-and-Music_26279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Society of Friends
+    alias: Friends, Society of
+    gutenberg_agent_id: '31896'
+    url: http://www.gutenberg.org/2009/agents/31896
+    wikipedia: http://en.wikipedia.org/wiki/Religious_Society_of_Friends
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2008-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Society of Friends -- Discipline'
+title: On Singing and Music
+url: http://www.gutenberg.org/ebooks/26279
